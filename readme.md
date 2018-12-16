@@ -1,3 +1,5 @@
+# remember : keep simple
+
 ## 20181216纪要
 done
 1. 使用伪代码编写简单的login、register思路，[查看](./login_register.md) -- 1d
