@@ -19,5 +19,6 @@ done
 
 todo:
 1. 通读 https://github.com/lenve/JavaEETest 中的VBlog项目
+2. markdown的简单语法(此readme文件即为markdown)
 
 
