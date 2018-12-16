@@ -14,6 +14,9 @@ done
     git stash
     git stash pop
     git tag
+    git log --stat
+    git log -p
+    # 了解.gitignore
     ```
 3. 简单演示intellij相关快捷键 -- 3d
     1. 列编辑
