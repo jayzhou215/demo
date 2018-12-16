@@ -1,7 +1,7 @@
 ## 20181216纪要
 done
 1. 使用伪代码编写简单的login、register思路，[查看](./login_register.md) -- 1d
-1. 使用mvn命令打包、部署SpringBoot项目（待补充细节） -- 2d
+1. 使用mvn命令打包、部署SpringBoot项目 [./hello_spring/README.md] -- 2d
 2. 简单演示git使用，下面给出常用git命令，需熟练掌握 -- 3d
     ```shell
     # 配置ssh key(自行baidu) 使用 git clone git://xxxx
