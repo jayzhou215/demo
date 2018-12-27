@@ -4,7 +4,7 @@
 done
 1. 使用伪代码编写简单的login、register思路，[查看](./login_register.md) -- 1d
 1. 使用mvn命令打包、部署SpringBoot项目 [查看](./hello_spring/) -- 2d
-2. 简单演示git使用，下面给出常用git命令，需熟练掌握 -- 3d
+2. 简单演示git使用，下面给出常用git命令，需熟练掌握，[这里](./git_exercise.md)有习题哦
     ```shell
     # 配置ssh key(自行baidu) 使用 git clone git://xxxx
     git init
