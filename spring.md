@@ -1,0 +1,12 @@
+> 对sprintboot 的helloworld做迭代的说明
+- 新建一个springboot helloWorld项目
+- 编写readme.md
+    - 指出具体依赖环境
+    - 对所有文件作出相应解释
+    - 指出具体编译、执行步骤。
+- 提供hello接口用户总访问数统计
+- 提供hello接口每日访问时段分布统计
+- 提供mysql访问支持，需新建db.md介绍数据库设计
+- 提供redis访问支持，需新建redis.md介绍使用redis命令访问相关数据的示例
+- 提供register接口，用到mysql
+- 提供login接口，用到mysql
