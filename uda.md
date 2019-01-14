@@ -5,3 +5,8 @@ https://cn.udacity.com/course/software-development-process--ud805
 
 https://cn.udacity.com/course/software-architecture-design--ud821
 python examples...
+
+机器学习相关free~
+https://classroom.udacity.com/courses/st101
+https://cn.udacity.com/course/artificial-intelligence-for-robotics--cs373
+https://classroom.udacity.com/courses/ud120

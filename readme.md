@@ -35,6 +35,12 @@ todo:
 2. markdown的简单语法(此readme文件即为markdown) -- 1d
     1. https://classroom.udacity.com/courses/ud777
 
+
 ## 20190102 -- 
+
 spring boot的进阶学习 -- 参考 https://github.com/JeffLi1993/springboot-learning-example
 需要梳理详细的学习计划
+
+数据分析 
+https://cn.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
+https://classroom.udacity.com/courses/ud359
