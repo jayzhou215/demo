@@ -8,5 +8,6 @@ python examples...
 
 机器学习相关free~
 https://classroom.udacity.com/courses/st101
+https://classroom.udacity.com/courses/st095
 https://cn.udacity.com/course/artificial-intelligence-for-robotics--cs373
 https://classroom.udacity.com/courses/ud120
